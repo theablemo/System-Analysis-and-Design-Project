@@ -1,16 +1,26 @@
-# system_analysis_and_design_project
+System Analysis and Design Final Project
+========================================
 
-A new Flutter project.
+This repo is the front-end part of the file management project for the SAD course instructed by Dr. Mehdi Mostafazade at the Sharif University of Technology. The backend code can be found [here]().
 
-## Getting Started
+# Collborators
 
-This project is a starting point for a Flutter application.
+- [Mohammad Abolnejadian](https://github.com/theablemo)
+- [Mohammadali Khodabandelou](https://github.com/amirrezamirzaei)
+- [Amirreza Mirzaei](https://github.com/MohammadAli-Khodabandelou)
+- [Alireza Eiji](https://github.com/AlirezaEiji191379)
+- [Matin Daghyani](https://github.com/mtndaghyani)
 
-A few resources to get you started if this is your first Flutter project:
+# Introduction to the platform
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project is an Android-first application that can be used as a file-sharing platform. Easily upload your files to your account and download them anywhere using your personal account. This app is made to make managing your files easy and delightful, with a modern and colorful design.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Usage
+
+In order to run this project, you should have the [Flutter SDK](https://flutter.dev/) installed on your system. Once you have that, you can build the project.
+Note that some dependencies might be out-of-date by the time you clone this project.
+
+
+# Design
+
+The UI of this project was designed by the Figma software. Following are some of the most important pages of this app.
