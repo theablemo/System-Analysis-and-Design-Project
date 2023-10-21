@@ -26,10 +26,18 @@ Note that some dependencies might be out-of-date by the time you clone this proj
 The UI of this project was designed by the Figma software. Following are some of the most important pages of this app.
 
 **Login**
-![login](<UI/Login Second.png>)
+
+<img src="UI/Login Second.png" alt="alt text" height="800" />
+
+
+**Home Page**
+
+<img src="UI/Home Page.png" alt="alt text" height="800" />
 
 **More options for a File**
-![More options for a File](<UI/File More Options.png>)
+
+<img src="UI/File More Options.png" alt="alt text" height="800" />
 
 **File Library**
-![Library](<UI/Library.png>)
+
+<img src="UI/Library.png" alt="alt text" height="800" />
