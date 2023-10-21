@@ -28,9 +28,6 @@ The UI of this project was designed by the Figma software. Following are some of
 **Login**
 ![login](<UI/Login Second.png>)
 
-**Home Page**
-![Home Page](<UI/Home Page.png>)
-
 **More options for a File**
 ![More options for a File](<UI/File More Options.png>)
 
